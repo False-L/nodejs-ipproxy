@@ -1,4 +1,4 @@
-http://www.youdaili.net/Daili/guonei/ 正则解决
+﻿http://www.youdaili.net/Daili/guonei/ 正则解决
 
 https://premproxy.com/proxy/proxy-${j}.htm 已做 需vpn 国外
 
@@ -24,4 +24,4 @@ https://list.proxylistplus.com/ 国外 可连接
 https://proxy.peuland.com  国外 需vpn
 http://www.freeproxylists.net/ 国外 需vpn
 
-http://www.xroxy.com/proxylist.php?port=&type=&ssl=&country=EU&latency=&reliability=#table
+http://www.xroxy.com/proxylist.php?port=&type=&ssl=&country=EU&latency=&reliability=#table 国外
